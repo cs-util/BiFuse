@@ -1,4 +1,4 @@
-# BiFuse
+# BiFuse - Monocular 360 Depth Estimation via Bi-Projection Fusion
 
 Comming Soon :D
 
