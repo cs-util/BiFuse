@@ -7,6 +7,15 @@
 ### [[Paper](http://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_BiFuse_Monocular_360_Depth_Estimation_via_Bi-Projection_Fusion_CVPR_2020_paper.pdf)] [[Project Page](https://fuenwang.ml/project/bifuse/?fbclid=IwAR0qKLtkrkGgtGiu2zdm7YpW-3DkBPzdYvonWYUqyv1yKFA1nLYz5Q5qqEM)]
 
 ## Getting Started
+#### Requirements
+- Linux (tested on Ubuntu 18.04.4 LTS)
+- Anaconda
+- Python 3.7 (tested on 3.7.4)
+- PyTorch 1.4.0 (tested on 1.4.0 for execution)
+
+#### Prepare Date
+Please follow the instruction in [LayoutMP3D](https://github.com/fuenwang/LayoutMP3D) to download and pre-process the data.
+
 Comming Soon :D
 
 ## License
